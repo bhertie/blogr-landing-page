@@ -1,7 +1,4 @@
-Just add the links without changing anything else:
-
 # Blogr Landing Page
-
 A responsive landing page built using HTML, CSS and JavaScript.
 
 ## Live Demo
